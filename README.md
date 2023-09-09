@@ -1,6 +1,6 @@
 # Sepsis-Prediction
 
-Abstract— Without prompt diagnosis and treatment, 
+**Abstract**— Without prompt diagnosis and treatment, 
 sepsis is a potentially fatal condition that can cause organ 
 failure and death. In order to improve patient outcomes, 
 sepsis must be detected early. The ability to predict sepsis 
@@ -23,3 +23,6 @@ insights into the most effective ML algorithm for a quick
 diagnosis of sepsis. This research can help clinicians 
 make informed decisions and improve patient outcomes 
 by predicting sepsis before it progresses to severe stages.
+
+**Keywords**— Early prediction, Clinical data, Area under 
+Curve, Machine Learning, ICU.
